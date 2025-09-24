@@ -14,3 +14,7 @@ Set‑Top Box программное обеспечение для клиент�
 [https://www.youtube.com/watch?v=Kvm--pZaQD4](https://www.youtube.com/watch?v=Kvm--pZaQD4)
 
 ## Снимки экрана
+<img src="./1.png" />
+<img src="./2.png" />
+<img src="./3.png" />
+<img src="./4.png" />
